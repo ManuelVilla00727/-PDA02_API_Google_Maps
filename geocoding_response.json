@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Moran Valverde y Rumichaca Nan",
+                    "short_name": "Moran Valverde y Rumichaca Nan",
+                    "types": [
+                        "establishment",
+                        "point_of_interest",
+                        "transit_station"
+                    ]
+                },
+                {
+                    "long_name": "Santa Rita",
+                 …     "lng": -78.55007903029151
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJzc81CbyY1ZER2xC-AMMWMEA",
+            "plus_code": {
+                "compound_code": "PF92+QG Quito, Ecuador",
+                "global_code": "67F3PF92+QG"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "transit_station"
+            ]
+        }
+    ],
+    "status": "OK"
+}
